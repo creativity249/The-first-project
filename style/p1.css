@@ -439,12 +439,12 @@ body {
     border: solid 5px;
     border-radius: 10px;
     border-color: #A7D397;
-    margin-top: -600px;
-    margin-left: 680px; 
+    margin-top: -20%;
+    margin-left: 75%; 
        
 }
 .about-me-circle{
-     margin-left: 740px; 
+     margin-left: 81%; 
 } 
 .circle{
     width: 20px;
