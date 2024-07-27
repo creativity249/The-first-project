@@ -852,7 +852,7 @@ body {
 .footer p:not(.copyright) {
   text-transform: uppercase;
   padding: 20px;
-  border-bottom: 15px solid #A7D397;
+  border-bottom: 6px solid #A7D397;
   font-size: 22px;
   width: fit-content;
   margin: 20px auto;
